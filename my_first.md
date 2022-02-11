@@ -104,6 +104,18 @@ while (i < 10) {
 
 ---
 
+<br>
+<br>
+<!-- Tables -->
+
+| Syntax    | Description |
+| --------- | ----------- |
+| Header    | Title       |
+| Paragraph | Text        |
+
+<br>
+<br>
+
 | ID  | Test Case | Expected Result | Actual Result |
 | --- | --------- | --------------- | ------------- |
 | 1   | dasda     | dasdas          | dasdas        |
