@@ -32,8 +32,8 @@ _Italics_
 <!-- Unordered List -->
 
 - item1
-  _ item2
-  _ item 3
+  - item2
+  - item 3
   <br>
 
 <!--Ordered List-->
